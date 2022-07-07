@@ -1,7 +1,7 @@
 ---
 # Mona-ALQaisi
 
-Software and DevOps engineer, Cloud architect, Instructor.
+Software engineer.
 
 <div id="webaddress">
 <a href="sweeter292929@gmail.com">sweeter292929@gmail.com</a>
